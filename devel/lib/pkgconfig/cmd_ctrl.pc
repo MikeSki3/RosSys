@@ -1,8 +1,0 @@
-prefix=/home/mike/catkin_ws/devel
-
-Name: cmd_ctrl
-Description: Description of cmd_ctrl
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/mike/catkin_ws/devel/lib 
-Requires: 

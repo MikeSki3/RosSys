@@ -1,2 +1,0 @@
-beginner_tutorials:cmd_ctrl:foobar
--DCATKIN_DEVEL_PREFIX=/home/mike/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mike/catkin_ws/install -G Unix Makefiles
