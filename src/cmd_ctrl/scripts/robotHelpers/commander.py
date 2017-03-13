@@ -4,6 +4,7 @@ from util import Robot
 
 c=0
 speed = 150
+period = .10
 forward = False
 backward = False
 LEFT_TRIM = 0
